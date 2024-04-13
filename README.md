@@ -1,17 +1,9 @@
-# parking_system
 
-A new Flutter project.
 
-## Getting Started
+# IOT Parking System
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# parking_system" 
+Car parking is a major issue in modern congested cities of today. There simply are
+too many vehicles on the road and not enough parking space. This has led to the
+need for efficient parking management systems. Thus, we demonstrate the use of
+IOT based parking management system that allows for efficient parking space
+utilization using IOT technology.
